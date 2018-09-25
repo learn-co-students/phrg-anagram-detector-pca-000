@@ -51,4 +51,7 @@ Two arrays are equal if they contain the same elements, in the same order. Remem
 ## Resources
 * [StackOverflow](http://stackoverflow.com/) - [Ruby: what does %w(array) mean?](http://stackoverflow.com/questions/1274675/ruby-what-does-warray-mean)
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-anagram-detector/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-anagram-detector/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Anagram Detector</p>
