@@ -11,7 +11,6 @@ attr_accessor :word
   def match(arguments)
     arguments.select do |a|
       word.split("").sort == a.split("").sort
-      binding.pry
     end
   end
 
